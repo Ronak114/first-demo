@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625112608 source:c:\users\adones\desktop\code blocks\stock-management-system-in-c\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
